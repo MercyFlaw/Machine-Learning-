@@ -1,3 +1,7 @@
+@settings {
+  font-size: 20;
+}
+
 # Machine-Learning-Repository contains educative machine-learning models to solve real-world problems on open-source datasets.
 # Scikit-Learn, Keras, Tensorflow, and other machine learning resources have been been used to achieve the purpose.
 
