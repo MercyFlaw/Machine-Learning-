@@ -9,11 +9,9 @@
 
 # LinearRegression.py
 # Problem: Regression problem to predict the profit of a restaurant, based on the number of habitants where the restaurant is located
-# Dataset:
 
 # LogisticRegression.py
 # Problem: Regression to predict whether an applicant is likely to get hired or rejected. 
-# Dataset:
 
 # NeuralNetworks.py
 # Problem: Deploy neural network to predict and label handwritten numbers
